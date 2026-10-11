@@ -192,7 +192,7 @@
 | [PanSou](<https://pansou.de>) | 纯净的夸克网盘资源搜索引擎 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kuake-so-1 -->🟢&#8288;可&#8288;访问<!-- /availability:kuake-so-1 --> | <!-- availability-date:kuake-so-1 -->2026&#8209;10&#8209;11<!-- /availability-date:kuake-so-1 --> |
 | [追剧吧](<https://www.zhuiju.us/>) | 国内外热门影视网盘资源搜索 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:zhuiju-us -->🟢&#8288;可&#8288;访问<!-- /availability:zhuiju-us --> | <!-- availability-date:zhuiju-us -->2026&#8209;10&#8209;11<!-- /availability-date:zhuiju-us --> |
 | [谷哥搜](<https://gugeso.com/>) | 支持9种网盘的综合搜索站 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:gugeso -->🟢&#8288;可&#8288;访问<!-- /availability:gugeso --> | <!-- availability-date:gugeso -->2026&#8209;10&#8209;11<!-- /availability-date:gugeso --> |
-| [夸克搜](<https://kkso.net>) | 夸克百度网盘搜索 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kuakeso -->🟢&#8288;可&#8288;访问<!-- /availability:kuakeso --> | <!-- availability-date:kuakeso -->2026&#8209;10&#8209;11<!-- /availability-date:kuakeso --> |
+| [KK网盘搜](<https://kkso.net>) | 夸克百度网盘搜索 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kuakeso -->🟢&#8288;可&#8288;访问<!-- /availability:kuakeso --> | <!-- availability-date:kuakeso -->2026&#8209;10&#8209;11<!-- /availability-date:kuakeso --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 

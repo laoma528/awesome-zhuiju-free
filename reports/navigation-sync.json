@@ -1,6 +1,6 @@
 {
-  "version": 17,
-  "updated_at": "2026-10-11T10:35:35+08:00",
+  "version": 18,
+  "updated_at": "2026-10-11T10:36:56+08:00",
   "backend": {
     "name": "追剧么指南",
     "url": "https://zhuiju.me/admin#sites",
@@ -70,7 +70,7 @@
     "duplicate_check": "操作前同时核对 README、本档案 current_state 和导航后台"
   },
   "current_state": {
-    "verified_at": "2026-10-11T10:35:35+08:00",
+    "verified_at": "2026-10-11T10:36:56+08:00",
     "verification_method": "通过已登录的 Chrome 后台读取站点总数和页面顺序",
     "total_site_count": 74,
     "categories": [
@@ -329,10 +329,10 @@
             "icon_status": "fetched"
           },
           {
-            "name": "夸克搜",
+            "name": "KK网盘搜",
             "description": "夸克百度网盘搜索",
             "external_url": "https://kkso.net",
-            "sort": 4,
+            "sort": 2,
             "icon_status": "fetched"
           }
         ]
@@ -880,6 +880,13 @@
         "星河影视",
         "黑夜影院"
       ]
+    },
+    {
+      "id": "2026-10-11-rename-kuakeso",
+      "performed_by": "codex_via_chrome",
+      "action": "rename",
+      "category": "网盘搜索",
+      "details": "根据维护者要求，将 https://kkso.net 的站点名称由“夸克搜”改为“KK网盘搜”。后台复核 URL 与简介未变、排序为 2，网盘搜索分类仍为 4 条。"
     }
   ]
 }

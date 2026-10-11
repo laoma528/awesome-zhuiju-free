@@ -164,17 +164,6 @@
       "error": null
     },
     {
-      "resource_id": "darkvod",
-      "url": "https://darkvod.com",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 521,
-      "checked_at": "2026-10-11T01:41:11.191Z",
-      "attempts": 2,
-      "error": "fetch failed"
-    },
-    {
       "resource_id": "netflixgc",
       "url": "https://www.netflixgc.com",
       "status": "restricted",
@@ -932,17 +921,6 @@
       "checked_at": "2026-10-11T01:41:24.380Z",
       "attempts": 1,
       "error": null
-    },
-    {
-      "resource_id": "xhkan",
-      "url": "https://www.xhkan.top/",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 327,
-      "checked_at": "2026-10-11T01:41:24.830Z",
-      "attempts": 2,
-      "error": "fetch failed"
     },
     {
       "resource_id": "didahd",

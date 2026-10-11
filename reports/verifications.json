@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-11",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -187,7 +187,6 @@
       "resource_ids": [
         "auete-video",
         "dyrs",
-        "darkvod",
         "netflixgc",
         "nfyingshi",
         "nivod",
@@ -679,21 +678,6 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充收录在线影视资源：66 大片网（https://www.77dpw.vip/，推荐指数 5 星，简介：免费电影在线观看）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
-    },
-    {
-      "id": "verify-20260829-xhkan",
-      "resource_ids": [
-        "xhkan"
-      ],
-      "checked_at": "2026-08-29",
-      "checked_by": "maintainer",
-      "method": "manual",
-      "environment": {
-        "region": "unspecified",
-        "network": "user submitted"
-      },
-      "result": "pending_review",
-      "notes": "根据用户补充收录在线影视资源：星河影视（https://www.xhkan.top/，推荐指数 5 星，简介：高清无广告_弹幕）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
     },
     {
       "id": "verify-20260829-didahd",

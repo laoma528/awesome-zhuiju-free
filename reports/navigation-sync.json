@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "updated_at": "2026-10-10T08:54:10+08:00",
+  "version": 17,
+  "updated_at": "2026-10-11T10:35:35+08:00",
   "backend": {
     "name": "追剧么指南",
     "url": "https://zhuiju.me/admin#sites",
@@ -70,13 +70,13 @@
     "duplicate_check": "操作前同时核对 README、本档案 current_state 和导航后台"
   },
   "current_state": {
-    "verified_at": "2026-10-10T08:54:10+08:00",
+    "verified_at": "2026-10-11T10:35:35+08:00",
     "verification_method": "通过已登录的 Chrome 后台读取站点总数和页面顺序",
-    "total_site_count": 76,
+    "total_site_count": 74,
     "categories": [
       {
         "name": "在线影视",
-        "site_count": 32,
+        "site_count": 30,
         "sites": [
       {
         "name": "创享影视",
@@ -153,13 +153,6 @@
         "description": "免费电影在线观看",
         "external_url": "https://www.77dpw.vip/",
         "sort": 43,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "星河影视",
-        "description": "高清无广告_弹幕",
-        "external_url": "https://www.xhkan.top/",
-        "sort": 44,
         "icon_status": "fetched"
       },
       {
@@ -258,13 +251,6 @@
         "description": "高清电影在线观看",
         "external_url": "https://dyrs.tv",
         "sort": 59,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "黑夜影院",
-        "description": "综合影视/资源多/无广告",
-        "external_url": "https://darkvod.com",
-        "sort": 60,
         "icon_status": "fetched"
       },
       {
@@ -882,6 +868,18 @@
       "action": "update",
       "category": "TVBox软件",
       "details": "根据维护者要求，将影视仓简介改为“基于 TVBox 二次开发，魔改里知名度最高”，WebHomeTV 简介改为“基于 FongMi / CatVod 二次开发，增强8项”；后台保存并复核，原排序 5 和 8 保持不变。"
+    },
+    {
+      "id": "2026-10-11-remove-xhkan-darkvod",
+      "performed_by": "codex_via_chrome",
+      "action": "delete",
+      "category": "在线影视",
+      "details": "根据维护者反馈，星河影视和黑夜影院已无法访问；经维护者确认后从 zhuiju.me 后台永久删除。后台复核总数 74、在线影视 30，两个条目均已消失。",
+      "deleted_count": 2,
+      "deleted_sites": [
+        "星河影视",
+        "黑夜影院"
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-11",
   "resources": [
     {
       "id": "no-video",
@@ -747,50 +747,6 @@
         "last_checked": "2026-07-04",
         "method": "manual",
         "notes": "根据截图信息收录：推荐指数 5 星，测评备注为高清电影在线观看；截图状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
-      },
-      "source": {
-        "submitted_by": "maintainer",
-        "added_at": "2026-07-04"
-      },
-      "featured": true
-    },
-    {
-      "id": "darkvod",
-      "name": "黑夜影院",
-      "url": "https://darkvod.com",
-      "category": "online_video",
-      "summary": "综合影视资源较多，页面无广告。",
-      "summary_short": "综合影视/资源多/无广告",
-      "tags": [
-        "在线影视",
-        "综合影视",
-        "无广告"
-      ],
-      "access": {
-        "requires_login": false,
-        "free_level": "unknown",
-        "regions": [
-          "GLOBAL"
-        ]
-      },
-      "scores": {
-        "more": 5,
-        "speed": 5,
-        "clean": 5,
-        "stable": 5,
-        "ease": 5
-      },
-      "risks": {
-        "copyright": "high",
-        "safety": "medium",
-        "privacy": "unknown",
-        "payment": "unknown"
-      },
-      "verification": {
-        "status": "caution",
-        "last_checked": "2026-07-04",
-        "method": "manual",
-        "notes": "根据截图信息收录：推荐指数 5 星，测评备注为综合影视/资源多/无广告；截图状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -4844,51 +4800,6 @@
         "last_checked": "2026-08-29",
         "method": "manual",
         "notes": "根据用户补充收录在线影视资源：66 大片网（https://www.77dpw.vip/，推荐指数 5 星，简介：免费电影在线观看）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
-      },
-      "source": {
-        "submitted_by": "maintainer",
-        "added_at": "2026-08-29"
-      },
-      "featured": true
-    },
-    {
-      "id": "xhkan",
-      "name": "星河影视",
-      "url": "https://www.xhkan.top/",
-      "category": "online_video",
-      "summary": "高清无广告，支持弹幕。",
-      "summary_short": "高清无广告_弹幕",
-      "tags": [
-        "在线影视",
-        "高清",
-        "无广告",
-        "弹幕"
-      ],
-      "access": {
-        "requires_login": false,
-        "free_level": "unknown",
-        "regions": [
-          "GLOBAL"
-        ]
-      },
-      "scores": {
-        "more": 5,
-        "speed": 5,
-        "clean": 5,
-        "stable": 5,
-        "ease": 5
-      },
-      "risks": {
-        "copyright": "high",
-        "safety": "medium",
-        "privacy": "unknown",
-        "payment": "unknown"
-      },
-      "verification": {
-        "status": "caution",
-        "last_checked": "2026-08-29",
-        "method": "manual",
-        "notes": "根据用户补充收录在线影视资源：星河影视（https://www.xhkan.top/，推荐指数 5 星，简介：高清无广告_弹幕）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
       },
       "source": {
         "submitted_by": "maintainer",

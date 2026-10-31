@@ -58,12 +58,12 @@
 | 普通导航站 | ❌ 缺少筛选 | ❌ 无人管 | ❌ 否 | ❌ 不行 |
 | 本项目 | ✅ 人工精选 | ✅ 每天自动检测 | ✅ 是，数据公开 | ✅ 通过 Issue 提交 |
 
-### 赞助商
+### 💗 赞助商
 
-- **ChatGPT Plus订阅 ¥128/月**<br>
-  官渠代充 · 1 分钟到账 · 全程质保 · [点击充值你的账号](https://prodclub.xyz/r/3F8974?src=github)
-- 流量卡 **月租29元200G**<br>
-  官方授权 · 运营商发货 · [点击办理低价流量卡](https://htx.haotianxia666.cn/home/4a23c334a902ca6b)
+| 赞助商 | 介绍 |
+| :---: | --- |
+| **[ProdClub](https://prodclub.xyz/r/3F8974?src=github)** | **ChatGPT Plus 订阅 ¥128/月**<br>官渠代充 · 1 分钟到账 · 全程质保。[点击充值你的账号](https://prodclub.xyz/r/3F8974?src=github) |
+| **[流量卡](https://htx.haotianxia666.cn/home/4a23c334a902ca6b)** | **月租 29 元，200G 流量**<br>官方授权 · 运营商发货。[点击办理低价流量卡](https://htx.haotianxia666.cn/home/4a23c334a902ca6b) |
 
 > 商业广告用于支持项目运营，与影视资源推荐、评分和收录无关。
 

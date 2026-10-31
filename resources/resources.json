@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-10-31",
   "resources": [
     {
       "id": "kankanya",
@@ -5734,6 +5734,55 @@
         "full_name": "buhanzhe/NativeWasmTv",
         "stars": 377,
         "pushed_at": "2026-10-23T06:35:47Z"
+      }
+    },
+    {
+      "id": "xiugou-tv",
+      "name": "修狗TV",
+      "url": "https://github.com/qfw66/xiugou-tv",
+      "category": "open_source",
+      "summary": "面向 Windows 10/11 x64 的桌面影视聚合播放器，兼容 TVBox 配置与 spider 插件，支持点播和直播；需自行导入内容源。",
+      "summary_short": "兼容 TVBox 配置的 Windows 影视播放器",
+      "tags": [
+        "开源项目",
+        "Windows",
+        "TVBox"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "free",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 3,
+        "speed": 3,
+        "clean": 3,
+        "stable": 3,
+        "ease": 3
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "unknown",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-10-31",
+        "method": "manual",
+        "notes": "按维护者要求收录，已查阅项目 README、GPL-3.0 许可和 GitHub API 元数据；软件不提供内容源，未安装测试播放功能；能力评分暂按中性 3 分占位，不代表实测评价。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-10-31"
+      },
+      "featured": true,
+      "github": {
+        "full_name": "qfw66/xiugou-tv",
+        "stars": 57,
+        "pushed_at": "2026-10-28T14:33:18Z"
       }
     }
   ]

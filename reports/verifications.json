@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23",
+  "updated_at": "2026-10-31",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -1061,6 +1061,21 @@
       },
       "result": "pending_review",
       "notes": "按维护者要求将资源名称修正为“nTv 直播软件”，简介及短简介修正为“横屏直播播放器”，清除误入简介的修改指令。"
+    },
+    {
+      "id": "verify-20261031-xiugou-tv",
+      "resource_ids": [
+        "xiugou-tv"
+      ],
+      "checked_at": "2026-10-31",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "public repository metadata"
+      },
+      "result": "pending_review",
+      "notes": "按维护者要求收录修狗TV。已查阅 GitHub README、GPL-3.0 许可与 API 元数据，确认 Windows 平台、TVBox 配置与 spider 插件兼容说明。Star 数为收录时快照，未安装测试播放功能。"
     }
   ]
 }

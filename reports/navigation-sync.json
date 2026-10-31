@@ -1,6 +1,6 @@
 {
-  "version": 18,
-  "updated_at": "2026-10-11T10:36:56+08:00",
+  "version": 19,
+  "updated_at": "2026-10-31T14:45:00+08:00",
   "backend": {
     "name": "追剧么指南",
     "url": "https://zhuiju.me/admin#sites",
@@ -70,224 +70,224 @@
     "duplicate_check": "操作前同时核对 README、本档案 current_state 和导航后台"
   },
   "current_state": {
-    "verified_at": "2026-10-11T10:36:56+08:00",
-    "verification_method": "通过已登录的 Chrome 后台读取站点总数和页面顺序",
-    "total_site_count": 74,
+    "verified_at": "2026-10-31T14:45:00+08:00",
+    "verification_method": "ego-browser 后台刷新确认总数 77；核对开源项目，补记已存在的 nTv，新增修狗TV；其余分类沿用历史基线，未全面核对。",
+    "total_site_count": 77,
     "categories": [
       {
         "name": "在线影视",
         "site_count": 30,
         "sites": [
-      {
-        "name": "创享影视",
-        "description": "无广告三网高峰秒播（@zxaay贡献）",
-        "external_url": "https://ys.cxkjg.cn/",
-        "sort": 31,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "洛雪TV",
-        "description": "4K无广告（@anyongki贡献）",
-        "external_url": "https://tv.lxyy.club/",
-        "sort": 32,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "西瓜影视",
-        "description": "没有搜不到的资源（@miaodongsu7贡献）",
-        "external_url": "https://www.kanmovie.com/",
-        "sort": 33,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "PPnix",
-        "description": "在线观看电影电视剧",
-        "external_url": "https://www.ppnix.com/cn/",
-        "sort": 34,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "可可影视",
-        "description": "最新Netflix新剧_韩国电影",
-        "external_url": "https://www.kkys14.com/",
-        "sort": 35,
-        "icon_status": "existing_default"
-      },
-      {
-        "name": "ZIP0",
-        "description": "在线影视搜索与播放",
-        "external_url": "https://zip0.com/",
-        "sort": 36,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "剧OK",
-        "description": "最新电视剧、最新电影",
-        "external_url": "https://juok3.top/",
-        "sort": 37,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "剧踪影院",
-        "description": "海内外 SVIP 超前更新",
-        "external_url": "https://www.juzong01.me/",
-        "sort": 40,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "简云影视",
-        "description": "纯净无广告/1080P高清秒播",
-        "external_url": "https://jianyunys.com/",
-        "sort": 41,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "片库",
-        "description": "纯净无广告/1080P高清秒播",
-        "external_url": "https://4k01.pianku.online/",
-        "sort": 42,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "66 大片网",
-        "description": "免费电影在线观看",
-        "external_url": "https://www.77dpw.vip/",
-        "sort": 43,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "嘀嗒影视",
-        "description": "高分电影聚集地，超清秒播",
-        "external_url": "https://www.didahd.xyz/",
-        "sort": 45,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "追影",
-        "description": "蓝光高清、无广告免费在线秒播",
-        "external_url": "https://zhuiying3.cc/",
-        "sort": 46,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "歪比巴卜",
-        "description": "高清视频免费在线观看",
-        "external_url": "https://wbbb1.com/",
-        "sort": 47,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "开心影院",
-        "description": "最新电影热播电视剧",
-        "external_url": "https://www.kxyy1.cc/",
-        "sort": 48,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "豆花电影网",
-        "description": "最新免费电影_在线观看",
-        "external_url": "https://dhvideo.cc/",
-        "sort": 49,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "饭搭子影视",
-        "description": "最新热门电影电视剧动漫综艺",
-        "external_url": "https://fdzys.com",
-        "sort": 50,
-        "icon_status": "existing_unknown"
-      },
-      {
-        "name": "SA视频",
-        "description": "最新电影电视剧动漫综艺",
-        "external_url": "https://www.lsjys11.com/",
-        "sort": 51,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "91毒舌",
-        "description": "最新Netflix新剧、4K高清（可访问）",
-        "external_url": "https://www.duse0.com/",
-        "sort": 52,
-        "icon_status": "default_fetch_failed"
-      },
-      {
-        "name": "好好看",
-        "description": "4K高清Netflix新剧（可访问需梯子）",
-        "external_url": "https://www.hhkan2.com/",
-        "sort": 53,
-        "icon_status": "default_fetch_failed"
-      },
-      {
-        "name": "蛋蛋魔法",
-        "description": "国内外热播剧，有福利伦理片（需梯子）",
-        "external_url": "https://ddmf.net",
-        "sort": 55,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "青空次元",
-        "description": "网友称最夯动漫在线站",
-        "external_url": "https://www.sorani.net",
-        "sort": 56,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "APP影院",
-        "description": "国内外热播剧，纯净无广告",
-        "external_url": "https://www.appmovie.art",
-        "sort": 57,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "Auete影视",
-        "description": "蓝光超清精品影视，发布页auete.pro",
-        "external_url": "https://www.aeete.com",
-        "sort": 58,
-        "icon_status": "default_fetch_failed"
-      },
-      {
-        "name": "电影人生",
-        "description": "高清电影在线观看",
-        "external_url": "https://dyrs.tv",
-        "sort": 59,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "奈飞工厂",
-        "description": "最新美剧，无广告（需梯子）",
-        "external_url": "https://www.netflixgc.com",
-        "sort": 61,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "白嫖者联盟",
-        "description": "热门热播剧，无广告速度快（需梯子）",
-        "external_url": "https://www.tdgo.shop",
-        "sort": 65,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "爱电影",
-        "description": "最新热门电影/电视剧（需梯子）",
-        "external_url": "https://kuhh4jo.com",
-        "sort": 66,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "937影视",
-        "description": "看全网影视剧（需梯子）",
-        "external_url": "https://www.937tv.vip",
-        "sort": 68,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "注视影视",
-        "description": "国内海外影视剧资源（需梯子）",
-        "external_url": "https://gaze.red/",
-        "sort": 69,
-        "icon_status": "fetched"
-      }
+          {
+            "name": "创享影视",
+            "description": "无广告三网高峰秒播（@zxaay贡献）",
+            "external_url": "https://ys.cxkjg.cn/",
+            "sort": 31,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "洛雪TV",
+            "description": "4K无广告（@anyongki贡献）",
+            "external_url": "https://tv.lxyy.club/",
+            "sort": 32,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "西瓜影视",
+            "description": "没有搜不到的资源（@miaodongsu7贡献）",
+            "external_url": "https://www.kanmovie.com/",
+            "sort": 33,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "PPnix",
+            "description": "在线观看电影电视剧",
+            "external_url": "https://www.ppnix.com/cn/",
+            "sort": 34,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "可可影视",
+            "description": "最新Netflix新剧_韩国电影",
+            "external_url": "https://www.kkys14.com/",
+            "sort": 35,
+            "icon_status": "existing_default"
+          },
+          {
+            "name": "ZIP0",
+            "description": "在线影视搜索与播放",
+            "external_url": "https://zip0.com/",
+            "sort": 36,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "剧OK",
+            "description": "最新电视剧、最新电影",
+            "external_url": "https://juok3.top/",
+            "sort": 37,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "剧踪影院",
+            "description": "海内外 SVIP 超前更新",
+            "external_url": "https://www.juzong01.me/",
+            "sort": 40,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "简云影视",
+            "description": "纯净无广告/1080P高清秒播",
+            "external_url": "https://jianyunys.com/",
+            "sort": 41,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "片库",
+            "description": "纯净无广告/1080P高清秒播",
+            "external_url": "https://4k01.pianku.online/",
+            "sort": 42,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "66 大片网",
+            "description": "免费电影在线观看",
+            "external_url": "https://www.77dpw.vip/",
+            "sort": 43,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "嘀嗒影视",
+            "description": "高分电影聚集地，超清秒播",
+            "external_url": "https://www.didahd.xyz/",
+            "sort": 45,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "追影",
+            "description": "蓝光高清、无广告免费在线秒播",
+            "external_url": "https://zhuiying3.cc/",
+            "sort": 46,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "歪比巴卜",
+            "description": "高清视频免费在线观看",
+            "external_url": "https://wbbb1.com/",
+            "sort": 47,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "开心影院",
+            "description": "最新电影热播电视剧",
+            "external_url": "https://www.kxyy1.cc/",
+            "sort": 48,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "豆花电影网",
+            "description": "最新免费电影_在线观看",
+            "external_url": "https://dhvideo.cc/",
+            "sort": 49,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "饭搭子影视",
+            "description": "最新热门电影电视剧动漫综艺",
+            "external_url": "https://fdzys.com",
+            "sort": 50,
+            "icon_status": "existing_unknown"
+          },
+          {
+            "name": "SA视频",
+            "description": "最新电影电视剧动漫综艺",
+            "external_url": "https://www.lsjys11.com/",
+            "sort": 51,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "91毒舌",
+            "description": "最新Netflix新剧、4K高清（可访问）",
+            "external_url": "https://www.duse0.com/",
+            "sort": 52,
+            "icon_status": "default_fetch_failed"
+          },
+          {
+            "name": "好好看",
+            "description": "4K高清Netflix新剧（可访问需梯子）",
+            "external_url": "https://www.hhkan2.com/",
+            "sort": 53,
+            "icon_status": "default_fetch_failed"
+          },
+          {
+            "name": "蛋蛋魔法",
+            "description": "国内外热播剧，有福利伦理片（需梯子）",
+            "external_url": "https://ddmf.net",
+            "sort": 55,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "青空次元",
+            "description": "网友称最夯动漫在线站",
+            "external_url": "https://www.sorani.net",
+            "sort": 56,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "APP影院",
+            "description": "国内外热播剧，纯净无广告",
+            "external_url": "https://www.appmovie.art",
+            "sort": 57,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "Auete影视",
+            "description": "蓝光超清精品影视，发布页auete.pro",
+            "external_url": "https://www.aeete.com",
+            "sort": 58,
+            "icon_status": "default_fetch_failed"
+          },
+          {
+            "name": "电影人生",
+            "description": "高清电影在线观看",
+            "external_url": "https://dyrs.tv",
+            "sort": 59,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "奈飞工厂",
+            "description": "最新美剧，无广告（需梯子）",
+            "external_url": "https://www.netflixgc.com",
+            "sort": 61,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "白嫖者联盟",
+            "description": "热门热播剧，无广告速度快（需梯子）",
+            "external_url": "https://www.tdgo.shop",
+            "sort": 65,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "爱电影",
+            "description": "最新热门电影/电视剧（需梯子）",
+            "external_url": "https://kuhh4jo.com",
+            "sort": 66,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "937影视",
+            "description": "看全网影视剧（需梯子）",
+            "external_url": "https://www.937tv.vip",
+            "sort": 68,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "注视影视",
+            "description": "国内海外影视剧资源（需梯子）",
+            "external_url": "https://gaze.red/",
+            "sort": 69,
+            "icon_status": "fetched"
+          }
         ]
       },
       {
@@ -537,7 +537,7 @@
       },
       {
         "name": "开源项目",
-        "site_count": 15,
+        "site_count": 17,
         "sites": [
           {
             "name": "iptv",
@@ -642,6 +642,19 @@
             "description": "专门做 ACG 的类豆瓣追番客户端",
             "external_url": "https://github.com/czy0729/Bangumi",
             "sort": 25,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "nTv 直播软件",
+            "description": "横屏直播播放器",
+            "external_url": "https://github.com/buhanzhe/NativeWasmTv",
+            "icon_status": "default"
+          },
+          {
+            "name": "修狗TV",
+            "description": "兼容 TVBox 配置的 Windows 影视播放器",
+            "external_url": "https://github.com/qfw66/xiugou-tv",
+            "sort": 27,
             "icon_status": "fetched"
           }
         ]
@@ -887,6 +900,14 @@
       "action": "rename",
       "category": "网盘搜索",
       "details": "根据维护者要求，将 https://kkso.net 的站点名称由“夸克搜”改为“KK网盘搜”。后台复核 URL 与简介未变、排序为 2，网盘搜索分类仍为 4 条。"
+    },
+    {
+      "id": "2026-10-31-xiugou-tv-add",
+      "performed_by": "codex_via_ego_browser",
+      "action": "add_and_reconcile_baseline",
+      "category": "开源项目",
+      "details": "确认 zyfun 已存在，无需重复添加。新增修狗TV，排序 27，内网地址留空，获取图标成功。刷新后台确认修狗TV出现在最近添加的开源项目中，总数由76变为77。补记此前已存在的 nTv，未修改该条目。",
+      "added_count": 1
     }
   ]
 }

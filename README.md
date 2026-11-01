@@ -170,7 +170,7 @@
       <td align="center" nowrap><!-- availability-date:android-yingshi-app -->2026&#8209;11&#8209;01<!-- /availability-date:android-yingshi-app --></td>
     </tr>
     <tr>
-      <td nowrap><a href="https://b.zhuiju.me/p/23" target="_blank" rel="noopener noreferrer">iOS影视APP</a></td>
+      <td nowrap><a href="https://b.zhuiju.me/p/23" target="_blank" rel="noopener noreferrer">苹果iOS影视APP</a></td>
       <td>各类可用APP合集</td>
       <td align="center">iOS</td>
       <td align="center" nowrap><!-- availability:ios-yingshi-app -->🟢&#8288;可&#8288;访问<!-- /availability:ios-yingshi-app --></td>

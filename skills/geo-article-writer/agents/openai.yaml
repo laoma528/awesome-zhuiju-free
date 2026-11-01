@@ -1,7 +1,0 @@
-interface:
-  display_name: "GEO Article Writer"
-  short_description: "为 awesome-zhuiju-free 生成 GitHub 优先的 GEO 宣传长文"
-  default_prompt: "Use $geo-article-writer to write a GitHub-first promotional article for awesome-zhuiju-free."
-
-policy:
-  allow_implicit_invocation: true

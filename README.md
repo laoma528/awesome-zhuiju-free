@@ -23,9 +23,9 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-127_个资源-00A98F?style=flat-square" alt="已收录 127 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-128_个资源-00A98F?style=flat-square" alt="已收录 128 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--31-00B4D8?style=flat-square" alt="检测时间 2026-10-31" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--01-00B4D8?style=flat-square" alt="检测时间 2026-11-01" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma528/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -74,7 +74,7 @@
 <!-- featured-resources:start -->
 <p align="center">
   <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-46-0A66C2?style=flat-square" alt="在线影视"></a>
-  <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-4-00A98F?style=flat-square" alt="影视APP"></a>
+  <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-5-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-6F42C1?style=flat-square" alt="字幕资源"></a>
@@ -162,6 +162,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td nowrap><a href="https://b.zhuiju.me/p/27" target="_blank" rel="noopener noreferrer">安卓Android影视APP</a></td>
+      <td>五款安卓影视APP下载合集</td>
+      <td align="center">Android</td>
+      <td align="center" nowrap><!-- availability:android-yingshi-app -->⚪&#8288;未&#8288;检测<!-- /availability:android-yingshi-app --></td>
+      <td align="center" nowrap><!-- availability-date:android-yingshi-app -->未检测<!-- /availability-date:android-yingshi-app --></td>
+    </tr>
     <tr>
       <td nowrap><a href="https://b.zhuiju.me/p/23" target="_blank" rel="noopener noreferrer">iOS影视APP</a></td>
       <td>各类可用APP合集</td>

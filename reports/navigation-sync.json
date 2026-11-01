@@ -1,6 +1,6 @@
 {
-  "version": 19,
-  "updated_at": "2026-10-31T14:45:00+08:00",
+  "version": 20,
+  "updated_at": "2026-11-01T13:35:00+08:00",
   "backend": {
     "name": "追剧么指南",
     "url": "https://zhuiju.me/admin#sites",
@@ -70,9 +70,9 @@
     "duplicate_check": "操作前同时核对 README、本档案 current_state 和导航后台"
   },
   "current_state": {
-    "verified_at": "2026-10-31T14:45:00+08:00",
-    "verification_method": "ego-browser 后台刷新确认总数 77；核对开源项目，补记已存在的 nTv，新增修狗TV；其余分类沿用历史基线，未全面核对。",
-    "total_site_count": 77,
+    "verified_at": "2026-11-01T13:35:00+08:00",
+    "verification_method": "ego-browser 刷新后台确认总数78、影视APP分类2条，前台确认安卓文章入口指向 /p/27；其余分类沿用历史基线，未全面核对。",
+    "total_site_count": 78,
     "categories": [
       {
         "name": "在线影视",
@@ -292,7 +292,7 @@
       },
       {
         "name": "影视APP",
-        "site_count": 1,
+        "site_count": 2,
         "sites": [
           {
             "name": "iOS影视APP",
@@ -300,6 +300,13 @@
             "external_url": "https://b.zhuiju.me/archives/23/",
             "sort": 10,
             "icon_status": "existing_default"
+          },
+          {
+            "name": "安卓Android影视APP",
+            "description": "安卓影视APP合集，五款应用下载地址",
+            "external_url": "https://b.zhuiju.me/p/27",
+            "sort": 11,
+            "icon_status": "default_after_fetch_attempt"
           }
         ]
       },
@@ -907,6 +914,14 @@
       "action": "add_and_reconcile_baseline",
       "category": "开源项目",
       "details": "确认 zyfun 已存在，无需重复添加。新增修狗TV，排序 27，内网地址留空，获取图标成功。刷新后台确认修狗TV出现在最近添加的开源项目中，总数由76变为77。补记此前已存在的 nTv，未修改该条目。",
+      "added_count": 1
+    },
+    {
+      "id": "2026-11-01-android-yingshi-app-add",
+      "performed_by": "codex_via_ego_browser",
+      "action": "add",
+      "category": "影视APP",
+      "details": "发布安卓Android影视APP-追剧必备（文章ID27），沿用iOS文章卡片样式，收录5款应用20个下载地址；导航新增入口，排序11，内网地址留空，尝试获取图标后显示默认图标。刷新后台及前台确认保存，影视APP共2条、站点总数78。",
       "added_count": 1
     }
   ]

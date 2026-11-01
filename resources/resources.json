@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-10-31",
+  "updated_at": "2026-11-01",
   "resources": [
     {
       "id": "kankanya",
@@ -1543,6 +1543,55 @@
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-09-13"
+      },
+      "featured": true
+    },
+    {
+      "id": "android-yingshi-app",
+      "name": "安卓Android影视APP",
+      "url": "https://b.zhuiju.me/p/27",
+      "category": "video_app",
+      "summary": "安卓影视 APP 合集，收录好好看、网飞猫、可可影视、蜜桃、电影侠的四网盘下载地址。",
+      "summary_short": "五款安卓影视APP下载合集",
+      "platforms": [
+        "Android"
+      ],
+      "tags": [
+        "影视APP",
+        "Android",
+        "安卓",
+        "追剧",
+        "应用合集"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "free",
+        "regions": [
+          "CN"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "pending",
+        "last_checked": "2026-11-01",
+        "method": "manual",
+        "notes": "按维护者提供的五款应用及20个网盘地址整理，已发布下载合集文章；未测试安装包或应用功能。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-11-01"
       },
       "featured": true
     },

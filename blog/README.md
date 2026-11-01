@@ -6,6 +6,8 @@
 
 - **iOS影视APP-追剧必备**：线上固定链接 <https://b.zhuiju.me/p/23>（文章 ID：23）；仓库源文件 `blog/articles/2026-09-13-ios-yingshi-app.md`。这篇文章会经常更新，修改时保留原链接，并同步更新源文件与线上正文。
 
+- **安卓Android影视APP-追剧必备**：线上固定链接 <https://b.zhuiju.me/p/27>（文章 ID：27）；仓库源文件 `blog/articles/2026-11-01-android-yingshi-app.md`，下载地址备份 `resources/android-yingshi-app-downloads.json`。更新时保留原链接，并同步本地与线上正文。
+
 ## 目录约定
 
 ```text

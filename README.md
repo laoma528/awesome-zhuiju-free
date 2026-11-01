@@ -164,7 +164,7 @@
   <tbody>
     <tr>
       <td nowrap><a href="https://b.zhuiju.me/p/27" target="_blank" rel="noopener noreferrer">安卓Android影视APP</a></td>
-      <td>五款安卓影视APP下载合集</td>
+      <td>安卓影视APP下载合集</td>
       <td align="center">Android</td>
       <td align="center" nowrap><!-- availability:android-yingshi-app -->🟢&#8288;可&#8288;访问<!-- /availability:android-yingshi-app --></td>
       <td align="center" nowrap><!-- availability-date:android-yingshi-app -->2026&#8209;11&#8209;01<!-- /availability-date:android-yingshi-app --></td>

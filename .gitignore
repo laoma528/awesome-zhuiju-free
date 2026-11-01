@@ -1,0 +1,57 @@
+# Local credentials and machine-specific settings.
+.typecho.local*.json
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.local.*
+!*.local.example.*
+.auth/
+.ssh/
+.aws/
+.kube/
+credentials*.json
+secrets.*
+cookies*.json
+storage-state*.json
+storageState*.json
+auth-state*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Local app distribution archive: never upload this directory.
+app网盘文件分享/
+*.apk
+*.aab
+*.ipa
+
+# Browser state, snapshots, logs, and test output.
+.playwright-mcp/
+.ego-browser/
+.playwright/
+playwright-report/
+test-results/
+*.log
+
+# Internal promotion, writing instructions, design drafts, and admin history.
+/outreach/
+/skills/geo-article-writer/
+/docs/DESIGN-*.md
+/reports/navigation-sync.json
+
+# Local databases, backups, and editor/runtime output.
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.backup
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+Thumbs.db

@@ -358,50 +358,6 @@
       "featured": true
     },
     {
-      "id": "sorani",
-      "name": "青空次元",
-      "url": "https://www.sorani.net",
-      "category": "online_video",
-      "summary": "网友称最夯动漫在线站。",
-      "summary_short": "网友称最夯动漫在线站",
-      "tags": [
-        "在线影视",
-        "动漫",
-        "在线看"
-      ],
-      "access": {
-        "requires_login": false,
-        "free_level": "unknown",
-        "regions": [
-          "GLOBAL"
-        ]
-      },
-      "scores": {
-        "more": 5,
-        "speed": 5,
-        "clean": 5,
-        "stable": 5,
-        "ease": 5
-      },
-      "risks": {
-        "copyright": "high",
-        "safety": "medium",
-        "privacy": "unknown",
-        "payment": "unknown"
-      },
-      "verification": {
-        "status": "caution",
-        "last_checked": "2026-07-04",
-        "method": "manual",
-        "notes": "根据用户补充更新简介：网友称最夯动漫在线站；截图状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
-      },
-      "source": {
-        "submitted_by": "maintainer",
-        "added_at": "2026-07-04"
-      },
-      "featured": true
-    },
-    {
       "id": "appmovie",
       "name": "APP影院",
       "url": "https://www.appmovie.art",

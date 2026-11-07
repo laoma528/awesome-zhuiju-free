@@ -76,17 +76,6 @@
       "error": null
     },
     {
-      "resource_id": "sorani",
-      "url": "https://www.sorani.net",
-      "status": "reachable",
-      "http_status": 200,
-      "final_url": "https://www.sorani.net/",
-      "response_ms": 852,
-      "checked_at": "2026-11-07T03:59:13.714Z",
-      "attempts": 1,
-      "error": null
-    },
-    {
       "resource_id": "appmovie",
       "url": "https://www.appmovie.art",
       "status": "reachable",

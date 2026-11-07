@@ -206,7 +206,6 @@
       "id": "verify-20260704-online-video-fourth-batch",
       "resource_ids": [
         "ddmf",
-        "sorani",
         "tdgo"
       ],
       "checked_at": "2026-07-04",
@@ -217,7 +216,7 @@
         "network": "screenshot submitted"
       },
       "result": "pending_review",
-      "notes": "根据截图信息收录在线影视资源：蛋蛋魔法（https://ddmf.net，测评备注后续更新为：国内外热播剧，有福利伦理片）和青空次元（https://www.sorani.net，测评备注后续更新为：网友称最夯动漫在线站）；白嫖者联盟与已收录的 tdgo.shop 为同一网址，因此更新原 tdgo 条目的展示名和简介，避免重复收录。截图中的访问状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性。"
+      "notes": "根据截图信息收录在线影视资源：蛋蛋魔法（https://ddmf.net，测评备注后续更新为：国内外热播剧，有福利伦理片）；白嫖者联盟与已收录的 tdgo.shop 为同一网址，因此更新原 tdgo 条目的展示名和简介，避免重复收录。截图中的访问状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性。"
     },
     {
       "id": "verify-20260704-appmovie",

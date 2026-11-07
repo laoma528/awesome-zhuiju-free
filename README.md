@@ -23,9 +23,9 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-128_个资源-00A98F?style=flat-square" alt="已收录 128 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-129_个资源-00A98F?style=flat-square" alt="已收录 129 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--06-00B4D8?style=flat-square" alt="检测时间 2026-11-06" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--07-00B4D8?style=flat-square" alt="检测时间 2026-11-07" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma528/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -73,7 +73,7 @@
 
 <!-- featured-resources:start -->
 <p align="center">
-  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-46-0A66C2?style=flat-square" alt="在线影视"></a>
+  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-47-0A66C2?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-5-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
@@ -122,7 +122,7 @@
 | [好好看](<https://www.hhkan2.com/>) | 4K高清Netflix新剧（可访问需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:haohaokan -->🔴&#8288;无法&#8288;访问<!-- /availability:haohaokan --> | <!-- availability-date:haohaokan -->2026&#8209;11&#8209;07<!-- /availability-date:haohaokan --> |
 | [蛋蛋魔法](<https://ddmf.net>) | 国内外热播剧，有福利伦理片（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ddmf -->🟡&#8288;访问&#8288;受限<!-- /availability:ddmf --> | <!-- availability-date:ddmf -->2026&#8209;11&#8209;07<!-- /availability-date:ddmf --> |
 | [青空次元](<https://www.sorani.net>) | 网友称最夯动漫在线站 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sorani -->🟢&#8288;可&#8288;访问<!-- /availability:sorani --> | <!-- availability-date:sorani -->2026&#8209;11&#8209;07<!-- /availability-date:sorani --> |
-| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟡&#8288;访问&#8288;受限<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;11&#8209;07<!-- /availability-date:appmovie --> |
+| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟢&#8288;可&#8288;访问<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;11&#8209;07<!-- /availability-date:appmovie --> |
 | [Auete影视](<https://www.aeete.com>) | 蓝光超清精品影视，发布页auete.pro | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:auete-video -->🟢&#8288;可&#8288;访问<!-- /availability:auete-video --> | <!-- availability-date:auete-video -->2026&#8209;11&#8209;07<!-- /availability-date:auete-video --> |
 | [电影人生](<https://dyrs.tv>) | 高清电影在线观看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dyrs -->🟢&#8288;可&#8288;访问<!-- /availability:dyrs --> | <!-- availability-date:dyrs -->2026&#8209;11&#8209;07<!-- /availability-date:dyrs --> |
 | [奈飞工厂](<https://www.netflixgc.com>) | 最新美剧，无广告（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:netflixgc -->🟡&#8288;访问&#8288;受限<!-- /availability:netflixgc --> | <!-- availability-date:netflixgc -->2026&#8209;11&#8209;07<!-- /availability-date:netflixgc --> |
@@ -131,6 +131,7 @@
 | [爱电影](<https://kuhh4jo.com>) | 最新热门电影/电视剧（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ai-movie -->🟢&#8288;可&#8288;访问<!-- /availability:ai-movie --> | <!-- availability-date:ai-movie -->2026&#8209;11&#8209;07<!-- /availability-date:ai-movie --> |
 | [937影视](<https://www.937tv.vip>) | 看全网影视剧（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tv-937 -->🔴&#8288;无法&#8288;访问<!-- /availability:tv-937 --> | <!-- availability-date:tv-937 -->2026&#8209;11&#8209;07<!-- /availability-date:tv-937 --> |
 | [注视影视](<https://gaze.red/>) | 国内海外影视剧资源（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaze-red -->🟡&#8288;访问&#8288;受限<!-- /availability:gaze-red --> | <!-- availability-date:gaze-red -->2026&#8209;11&#8209;07<!-- /availability-date:gaze-red --> |
+| [影夕视频](<https://yingxivod.com/>) | 高清免费在线影视，每日更新 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingxivod-com-53 -->🟢&#8288;可&#8288;访问<!-- /availability:yingxivod-com-53 --> | <!-- availability-date:yingxivod-com-53 -->2026&#8209;11&#8209;07<!-- /availability-date:yingxivod-com-53 --> |
 | [樱之空](<https://skr.skr1.cc:666/>) | 国内外各种动漫都比较齐全 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:skr-skr1-cc-9 -->🟢&#8288;可&#8288;访问<!-- /availability:skr-skr1-cc-9 --> | <!-- availability-date:skr-skr1-cc-9 -->2026&#8209;11&#8209;07<!-- /availability-date:skr-skr1-cc-9 --> |
 | [爱盼](<https://www.aipan.me/>) | 4K影视资源聚合站 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:aipan-me-25 -->🟢&#8288;可&#8288;访问<!-- /availability:aipan-me-25 --> | <!-- availability-date:aipan-me-25 -->2026&#8209;11&#8209;07<!-- /availability-date:aipan-me-25 --> |
 | [宅男影视](<https://zndy.top/>) | 想看就看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:zndy -->🟢&#8288;可&#8288;访问<!-- /availability:zndy --> | <!-- availability-date:zndy -->2026&#8209;11&#8209;07<!-- /availability-date:zndy --> |
@@ -480,6 +481,13 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 <td align="center" width="96">
   <a href="https://github.com/zxaay"><img src="https://images.weserv.nl/?url=github.com/zxaay.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@zxaay"></a><br>
   <sub><strong>@zxaay</strong></sub><br>
+  <sub>1 个资源</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="https://github.com/samuelsuenyi-hub"><img src="https://images.weserv.nl/?url=github.com/samuelsuenyi-hub.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@samuelsuenyi-hub"></a><br>
+  <sub><strong>@samuelsuenyi-hub</strong></sub><br>
   <sub>1 个资源</sub>
 </td>
 </tr>

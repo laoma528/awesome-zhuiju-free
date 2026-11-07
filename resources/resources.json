@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-11-02",
+  "updated_at": "2026-11-07",
   "resources": [
     {
       "id": "kankanya",
@@ -5833,6 +5833,48 @@
         "stars": 77,
         "pushed_at": "2026-10-28T14:33:18Z"
       }
+    },
+    {
+      "id": "yingxivod-com-53",
+      "name": "影夕视频",
+      "url": "https://yingxivod.com/",
+      "category": "online_video",
+      "summary": "高清免费在线影视，每日更新",
+      "summary_short": "高清免费在线影视，每日更新",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-11-04",
+        "method": "manual",
+        "notes": "维护者 @laoma528 已通过 ok 确认收录。 测试信息：2026-11-04，美国东部。 提交者风险说明：版权：内容聚合自网络公开搜索结果，版权归原权利方，播放页有滚动免责声明（仅供学习交流）。广告/跳转：无弹窗、无诱导下载、无强制跳转，播放页有一个滚动提示条。支付：全站免费观看，无会员、无付费项目。隐私：无需注册即可观看。利益关系披露：提交人是该站运营团队成员，本次为自荐收录。"
+      },
+      "source": {
+        "submitted_by": "@samuelsuenyi-hub",
+        "added_at": "2026-11-07"
+      },
+      "featured": true
     }
   ]
 }

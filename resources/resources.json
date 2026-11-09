@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-11-07",
+  "updated_at": "2026-11-09",
   "resources": [
     {
       "id": "kankanya",
@@ -3529,7 +3529,7 @@
       "featured_order": 1,
       "github": {
         "full_name": "mtvpls/MoonTVPlus",
-        "stars": 3655,
+        "stars": 3694,
         "pushed_at": "2026-10-28T12:28:42Z"
       }
     },
@@ -3579,7 +3579,7 @@
       "featured_order": 2,
       "github": {
         "full_name": "Hiram-Wong/zyfun",
-        "stars": 9103,
+        "stars": 9122,
         "pushed_at": "2026-06-25T14:11:54Z"
       }
     },
@@ -3629,7 +3629,7 @@
       "featured_order": 3,
       "github": {
         "full_name": "Guovin/iptv-api",
-        "stars": 25914,
+        "stars": 26021,
         "pushed_at": "2026-10-14T01:21:43Z"
       }
     },
@@ -3679,8 +3679,8 @@
       "featured_order": 4,
       "github": {
         "full_name": "iptv-org/iptv",
-        "stars": 143017,
-        "pushed_at": "2026-11-02T00:12:29Z"
+        "stars": 143604,
+        "pushed_at": "2026-11-09T00:12:18Z"
       }
     },
     {
@@ -3729,7 +3729,7 @@
       "featured_order": 5,
       "github": {
         "full_name": "fish2018/pansou",
-        "stars": 15102,
+        "stars": 15164,
         "pushed_at": "2026-10-12T06:00:52Z"
       }
     },
@@ -3779,7 +3779,7 @@
       "featured_order": 6,
       "github": {
         "full_name": "jiangrui1994/CloudSaver",
-        "stars": 9426,
+        "stars": 9439,
         "pushed_at": "2026-10-15T07:32:16Z"
       }
     },
@@ -3829,7 +3829,7 @@
       "featured_order": 7,
       "github": {
         "full_name": "Cp0204/quark-auto-save",
-        "stars": 3088,
+        "stars": 3097,
         "pushed_at": "2026-07-09T11:44:49Z"
       }
     },
@@ -3879,8 +3879,8 @@
       "featured_order": 8,
       "github": {
         "full_name": "open-ani/animeko",
-        "stars": 21407,
-        "pushed_at": "2026-11-01T03:26:50Z"
+        "stars": 21615,
+        "pushed_at": "2026-11-08T12:21:28Z"
       }
     },
     {
@@ -3930,8 +3930,8 @@
       "featured_order": 9,
       "github": {
         "full_name": "Predidit/Kazumi",
-        "stars": 40608,
-        "pushed_at": "2026-10-31T09:30:43Z"
+        "stars": 41698,
+        "pushed_at": "2026-11-04T11:47:25Z"
       }
     },
     {
@@ -3981,7 +3981,7 @@
       "featured_order": 10,
       "github": {
         "full_name": "MoonTechLab/Selene",
-        "stars": 2620,
+        "stars": 2638,
         "pushed_at": "2026-05-25T10:26:26Z"
       }
     },
@@ -4033,8 +4033,8 @@
       "featured_order": 11,
       "github": {
         "full_name": "fish2018/webhtv",
-        "stars": 1858,
-        "pushed_at": "2026-10-21T09:49:43Z"
+        "stars": 1886,
+        "pushed_at": "2026-11-08T17:15:19Z"
       }
     },
     {
@@ -4085,8 +4085,8 @@
       "featured_order": 12,
       "github": {
         "full_name": "Silent1566/webhtv",
-        "stars": 767,
-        "pushed_at": "2026-11-01T22:18:37Z"
+        "stars": 793,
+        "pushed_at": "2026-11-08T09:44:11Z"
       }
     },
     {
@@ -4490,7 +4490,7 @@
       "featured": true,
       "github": {
         "full_name": "sky22333/sky-tv",
-        "stars": 136,
+        "stars": 140,
         "pushed_at": "2026-10-03T04:30:08Z"
       }
     },
@@ -4542,8 +4542,8 @@
       "featured_order": 14,
       "github": {
         "full_name": "FongMi/TV",
-        "stars": 10261,
-        "pushed_at": "2026-11-01T18:04:22Z"
+        "stars": 10396,
+        "pushed_at": "2026-11-06T15:57:24Z"
       }
     },
     {
@@ -5349,8 +5349,8 @@
       "featured": true,
       "github": {
         "full_name": "czy0729/Bangumi",
-        "stars": 6210,
-        "pushed_at": "2026-10-31T19:52:36Z"
+        "stars": 6226,
+        "pushed_at": "2026-11-08T12:34:04Z"
       }
     },
     {
@@ -5737,8 +5737,8 @@
       "featured": true,
       "github": {
         "full_name": "buhanzhe/NativeWasmTv",
-        "stars": 418,
-        "pushed_at": "2026-10-23T06:35:47Z"
+        "stars": 443,
+        "pushed_at": "2026-11-06T12:43:37Z"
       }
     },
     {
@@ -5786,8 +5786,8 @@
       "featured": true,
       "github": {
         "full_name": "qfw66/xiugou-tv",
-        "stars": 77,
-        "pushed_at": "2026-10-28T14:33:18Z"
+        "stars": 162,
+        "pushed_at": "2026-11-07T21:24:02Z"
       }
     },
     {

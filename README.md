@@ -63,7 +63,7 @@
 | 赞助商 | 介绍 |
 | :---: | --- |
 | **[ProdClub](https://prodclub.ai/r/3F8974?src=github)** | **ChatGPT Plus¥129/月-Pro100¥669/月丨**支付宝付款 、全程质保、官方正规渠道代充（美国实体卡）、1分钟自动开通、充值到你的账号、不换号/不共享**丨**ProdClub优惠码：**3F8974** [**点击充值**](https://prodclub.ai/r/3F8974?src=github) |
-| **[流量卡](https://htx.haotianxia666.cn/home/4a23c334a902ca6b)** | **月租 29 元，200G 流量**<br>官方授权 · 运营商发货。[点击办理低价流量卡](https://htx.haotianxia666.cn/home/4a23c334a902ca6b) |
+| **[流量卡](https://htx.haotianxia666.cn/home/4a23c334a902ca6b)** | **月租29元=200G流量丨**官方授权渠道、四大运营商可选、运营商快递发货、快递员指导激活丨[点击办理低价流量卡](https://htx.haotianxia666.cn/home/4a23c334a902ca6b) |
 
 > 商业广告用于支持项目运营，与影视资源推荐、评分和收录无关。
 
@@ -517,6 +517,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 ## 友情链接
 
 - [LINUX DO](https://linux.do) —— 新的理想型社区，技术爱好者的聚集地。
+- [ProdClub](https://prodclub.vip) —— ChatGPT Plus/Pro国内代充值，支付宝付款，最快 1 分钟到账。
 
 ## 项目数据
 

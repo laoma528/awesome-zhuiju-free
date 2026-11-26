@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-11-23",
+  "updated_at": "2026-11-27",
   "resources": [
     {
       "id": "kankanya",
@@ -5829,6 +5829,48 @@
       "source": {
         "submitted_by": "@samuelsuenyi-hub",
         "added_at": "2026-11-07"
+      },
+      "featured": true
+    },
+    {
+      "id": "github-com-66",
+      "name": "Mimi",
+      "url": "https://github.com/yuxino/mimi",
+      "category": "subtitles",
+      "summary": "开源免费，看生肉实时出双语字幕",
+      "summary_short": "开源免费，看生肉实时出双语字幕",
+      "tags": [
+        "字幕"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-11-26",
+        "method": "manual",
+        "notes": "维护者 @laoma528 已通过 ok 确认收录。 测试信息：2026-11-26，中国大陆。 提交者风险说明：1. 利益披露：我是这个开源项目的作者本人（自荐）。\n2. 费用与隐私说明：Mimi 软件本身免费开源、无广告无会员费，但使用云端识别/翻译需要自备 API Key（OpenAI、Gemini、阿里云、火山引擎等），音频或文字会发给你自己选的服务商，服务商可能按用量收费；Apple 芯片 Mac 升到 macOS 26+ 下载系统语言包后可纯本地免费使用。\n3. 平台与官网：支持 Mac / Windows / Linux / 安卓，官网与使用说明见 https://mimi.yuxino.cn/"
+      },
+      "source": {
+        "submitted_by": "@yuxino",
+        "added_at": "2026-11-27"
       },
       "featured": true
     }

@@ -5915,6 +5915,53 @@
         "added_at": "2026-11-27"
       },
       "featured": true
+    },
+    {
+      "id": "github-com-59",
+      "name": "CineFlow",
+      "url": "https://github.com/incldue/CineFlow",
+      "category": "open_source",
+      "summary": "核心解决普通无115网盘等点播资源的用户、学生群体等的观影问题，提供沉浸式观影体验(纯影视资源，无短视频、短剧、弹幕等)\n核心亮点：搜索词条词云化、最小化灵动岛模式、UI简洁优雅",
+      "summary_short": "核心解决普通无115网盘等点播资源的用户、学生群体等的观影问题，提供沉浸式观影体",
+      "tags": [
+        "开源项目"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "low"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-11-13",
+        "method": "manual",
+        "notes": "维护者 @laoma528 已通过 ok 确认收录。 测试信息：2026-11-13，中国大陆。 提交者风险说明：已解决广告过滤\n播放源为第三方片源，已告知用户并提供自定义第三方片源导入"
+      },
+      "source": {
+        "submitted_by": "@incldue",
+        "added_at": "2026-11-27"
+      },
+      "featured": true,
+      "github": {
+        "full_name": "incldue/CineFlow",
+        "stars": 573,
+        "pushed_at": "2026-11-22T11:29:13Z"
+      }
     }
   ]
 }

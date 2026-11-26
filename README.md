@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-130_个资源-00A98F?style=flat-square" alt="已收录 130 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-131_个资源-00A98F?style=flat-square" alt="已收录 131 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--27-00B4D8?style=flat-square" alt="检测时间 2026-11-27" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -82,7 +82,7 @@
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-17-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
   <a href="#直播源"><img src="https://img.shields.io/badge/直播源-3-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
-  <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-17-181717?style=flat-square" alt="开源项目"></a>
+  <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-18-181717?style=flat-square" alt="开源项目"></a>
 </p>
 
 <details>
@@ -121,7 +121,7 @@
 | [91毒舌](<https://www.duse0.com/>) | 最新Netflix新剧、4K高清（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:duse91 -->🔴&#8288;无法&#8288;访问<!-- /availability:duse91 --> | <!-- availability-date:duse91 -->2026&#8209;11&#8209;27<!-- /availability-date:duse91 --> |
 | [好好看](<https://www.hhkan2.com/>) | 4K高清Netflix新剧（可访问需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:haohaokan -->🔴&#8288;无法&#8288;访问<!-- /availability:haohaokan --> | <!-- availability-date:haohaokan -->2026&#8209;11&#8209;27<!-- /availability-date:haohaokan --> |
 | [蛋蛋魔法](<https://ddmf.net>) | 国内外热播剧，有福利伦理片（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ddmf -->🟡&#8288;访问&#8288;受限<!-- /availability:ddmf --> | <!-- availability-date:ddmf -->2026&#8209;11&#8209;27<!-- /availability-date:ddmf --> |
-| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟢&#8288;可&#8288;访问<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;11&#8209;27<!-- /availability-date:appmovie --> |
+| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟡&#8288;访问&#8288;受限<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;11&#8209;27<!-- /availability-date:appmovie --> |
 | [Auete影视](<https://www.aeete.com>) | 蓝光超清精品影视，发布页auete.pro | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:auete-video -->🟢&#8288;可&#8288;访问<!-- /availability:auete-video --> | <!-- availability-date:auete-video -->2026&#8209;11&#8209;27<!-- /availability-date:auete-video --> |
 | [电影人生](<https://dyrs.tv>) | 高清电影在线观看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dyrs -->🟢&#8288;可&#8288;访问<!-- /availability:dyrs --> | <!-- availability-date:dyrs -->2026&#8209;11&#8209;27<!-- /availability-date:dyrs --> |
 | [奈飞工厂](<https://www.netflixgc.com>) | 最新美剧，无广告（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:netflixgc -->🟡&#8288;访问&#8288;受限<!-- /availability:netflixgc --> | <!-- availability-date:netflixgc -->2026&#8209;11&#8209;27<!-- /availability-date:netflixgc --> |
@@ -276,7 +276,7 @@
 | 小盒子4K | `http://xhztv.top/4k.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-4k -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-4k --> | <!-- availability-date:xiao-he-zi-4k -->2026&#8209;11&#8209;27<!-- /availability-date:xiao-he-zi-4k --> |
 | 创享影视 | `https://ys.cxkjg.cn/api/provide/tvbox` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:chuang-xiang-ying-shi-tvbox -->🟢&#8288;可&#8288;访问<!-- /availability:chuang-xiang-ying-shi-tvbox --> | <!-- availability-date:chuang-xiang-ying-shi-tvbox -->2026&#8209;11&#8209;27<!-- /availability-date:chuang-xiang-ying-shi-tvbox --> |
 | 老刘备 | `https://raw.liucn.cc/box/m.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:lao-liu-bei -->🟢&#8288;可&#8288;访问<!-- /availability:lao-liu-bei --> | <!-- availability-date:lao-liu-bei -->2026&#8209;11&#8209;27<!-- /availability-date:lao-liu-bei --> |
-| 小马 | `https://szyyds.cn/tv/x.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-ma -->🔴&#8288;无法&#8288;访问<!-- /availability:xiao-ma --> | <!-- availability-date:xiao-ma -->2026&#8209;11&#8209;27<!-- /availability-date:xiao-ma --> |
+| 小马 | `https://szyyds.cn/tv/x.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-ma -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-ma --> | <!-- availability-date:xiao-ma -->2026&#8209;11&#8209;27<!-- /availability-date:xiao-ma --> |
 | 小盒子单仓 | `http://xhztv.top/xhz` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-single -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-single --> | <!-- availability-date:xiao-he-zi-single -->2026&#8209;11&#8209;27<!-- /availability-date:xiao-he-zi-single --> |
 | 伦理接口 | `http://47.96.82.41:5188/rose/18/xgg.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:lun-li-tvbox -->🟢&#8288;可&#8288;访问<!-- /availability:lun-li-tvbox --> | <!-- availability-date:lun-li-tvbox -->2026&#8209;11&#8209;27<!-- /availability-date:lun-li-tvbox --> |
 | 嗷呜 | `http://itv666.cc/aowu/config.webp` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ao-wu -->🟢&#8288;可&#8288;访问<!-- /availability:ao-wu --> | <!-- availability-date:ao-wu -->2026&#8209;11&#8209;27<!-- /availability-date:ao-wu --> |
@@ -324,6 +324,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 | [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,655 | 2026-05-25 |
 | [WebHomeTV](<https://github.com/fish2018/webhtv>) | 基于 FongMi/CatVod 二开的 Android 影音应用 | 1,937 | 2026-11-11 |
 | [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 837 | 2026-11-21 |
+| [CineFlow](<https://github.com/incldue/CineFlow>) | 核心解决普通无115网盘等点播资源的用户、学生群体等的观影问题，提供沉浸式观影体 | 573 | 2026-11-22 |
 | [nTv 直播软件](<https://github.com/buhanzhe/NativeWasmTv>) | 横屏直播播放器 | 502 | 2026-11-21 |
 | [修狗TV](<https://github.com/qfw66/xiugou-tv>) | 兼容 TVBox 配置的 Windows 影视播放器 | 306 | 2026-11-22 |
 | [sky-tv](<https://github.com/sky22333/sky-tv>) | 现代化跨平台视频播放器空壳应用 | 144 | 2026-10-03 |
@@ -494,6 +495,11 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 <td align="center" width="96">
   <a href="https://github.com/dexterchock"><img src="https://images.weserv.nl/?url=github.com/dexterchock.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@dexterchock"></a><br>
   <sub><strong>@dexterchock</strong></sub><br>
+  <sub>1 个资源</sub>
+</td>
+<td align="center" width="96">
+  <a href="https://github.com/incldue"><img src="https://images.weserv.nl/?url=github.com/incldue.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@incldue"></a><br>
+  <sub><strong>@incldue</strong></sub><br>
   <sub>1 个资源</sub>
 </td>
 <td align="center" width="96">

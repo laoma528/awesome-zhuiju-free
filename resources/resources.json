@@ -5873,6 +5873,48 @@
         "added_at": "2026-11-27"
       },
       "featured": true
+    },
+    {
+      "id": "101movies-pages-dev-62",
+      "name": "101Movies",
+      "url": "https://101movies.pages.dev/",
+      "category": "online_video",
+      "summary": "开源免登录影视站，支持电视遥控与四位码同步",
+      "summary_short": "开源免登录影视站，支持电视遥控与四位码同步",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-11-23",
+        "method": "manual",
+        "notes": "维护者 @laoma528 已通过 ok 确认收录。 测试信息：2026-11-23，海外 / 中国大陆均可直接访问。 提交者风险说明：开源地址：https://github.com/dexterchock/101movies （代码完全开源，支持 Cloudflare Pages 一键自建）\n广告与跳转：无任何广告、无弹窗、无诱导下载。\n隐私与支付：完全免费，免注册登录，历史记录和收藏默认存本地，支持用四位数临时配对码在电视、手机和电脑间同步，电脑端全屏还能开 WebGPU 超分。\n版权风险：站点本身不存储视频文件，播放流实时聚合自公开第三方采集站接口，版权风险为中到高（部分第三方采集源自带的切片里可能会有几秒钟水印）。\n利益关系披露：本人是该开源项目和演示站的开发者，平时自己看片用，顺便自荐分享一下。"
+      },
+      "source": {
+        "submitted_by": "@dexterchock",
+        "added_at": "2026-11-27"
+      },
+      "featured": true
     }
   ]
 }

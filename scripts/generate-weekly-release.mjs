@@ -18,7 +18,6 @@ const categories = new Map([
   ["player", "TVBox/影视仓空壳"],
   ["tvbox_config", "TVBox/影视仓配置地址"],
   ["subscription", "订阅源"],
-  ["membership", "会员拼团"],
   ["open_source", "开源项目"],
   ["other", "其他"]
 ]);

@@ -34,7 +34,6 @@ body:
         - TVBox
         - IPTV 订阅源
         - 影视仓配置地址
-        - 会员拼团
         - 开源项目
         - 其他
     validations:

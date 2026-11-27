@@ -53,7 +53,7 @@ CI 使用 Node.js 24；本地需 Node.js 18+（使用了原生 `fetch` 和顶层
 
 - `id`：小写字母和数字，以 `-` 分隔，模式 `^[a-z0-9]+(?:-[a-z0-9]+)*$`，全局唯一
 - `url`：必须是 HTTPS，`tvbox_config` 类型例外可用 HTTP
-- `category`：必须是枚举值之一：`online_video` / `video_app` / `cloud_search` / `magnet_search` / `subtitles` / `player` / `subscription` / `tvbox_config` / `membership` / `open_source` / `other`
+- `category`：必须是枚举值之一：`online_video` / `video_app` / `cloud_search` / `magnet_search` / `subtitles` / `player` / `subscription` / `tvbox_config` / `open_source` / `other`
 - `scores.*`：`more` / `speed` / `clean` / `stable` / `ease` 均为 1.0–5.0，最多一位小数
 - `risks.*`：`copyright` / `safety` / `privacy` / `payment` 枚举值：`low` / `medium` / `high` / `unknown`
 - `verification.status`：`pending` / `verified` / `recommended` / `caution` / `temporarily_unavailable` / `removed`

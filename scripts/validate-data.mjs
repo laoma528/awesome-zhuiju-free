@@ -10,7 +10,6 @@ const categories = new Set([
   "player",
   "subscription",
   "tvbox_config",
-  "membership",
   "open_source",
   "other"
 ]);

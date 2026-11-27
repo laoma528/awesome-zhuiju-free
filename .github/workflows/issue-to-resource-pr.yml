@@ -111,7 +111,6 @@ jobs:
               "IPTV 订阅源（影视仓配置地址）": "subscription",
               "订阅源": "subscription",
               "影视仓配置地址": "tvbox_config",
-              "会员拼团": "membership",
               "开源项目": "open_source",
               "其他": "other"
             };
@@ -340,14 +339,6 @@ jobs:
                   safety: "medium",
                   privacy: "unknown",
                   payment: "low"
-                };
-              }
-              if (category === "membership") {
-                return {
-                  copyright: "unknown",
-                  safety: "medium",
-                  privacy: "unknown",
-                  payment: "medium"
                 };
               }
               if (["online_video", "video_app", "player", "tvbox_config", "cloud_search", "magnet_search", "subscription"].includes(category)) {

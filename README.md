@@ -8,7 +8,7 @@
   <strong>收录范围</strong><br>
   🎬 在线影视 · 影视APP · 网盘搜索<br>
   📦 磁力BT/字幕 · TVBox/影视仓接口<br>
-  📡 IPTV直播源 · 会员拼团 · 开源项目
+  📡 IPTV直播源 · 开源项目
 </p>
 
 <p><sub>━━━━━━━━━━━━━━━━━━━━</sub></p>
@@ -81,7 +81,6 @@
   <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-8-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-17-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
   <a href="#直播源"><img src="https://img.shields.io/badge/直播源-3-E91E63?style=flat-square" alt="直播源"></a>
-  <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
   <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-19-181717?style=flat-square" alt="开源项目"></a>
 </p>
 
@@ -298,12 +297,6 @@
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
-### 会员拼团
-
-_等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml)。_
-
-<p align="right"><a href="#精选资源">返回分类导航</a></p>
-
 ### 开源项目
 
 | 资源 | 简介 | star数 | 仓库更新时间 |
@@ -369,7 +362,6 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 | 找字幕 | [字幕资源](#字幕资源) | 外语片、冷门片版本匹配，注意字幕来源和下载安全 |
 | 电视端播放 | [TVBox/影视仓空壳](#tvbox影视仓空壳)、[直播源](#直播源) | 电视盒子、NAS、客厅播放，注意插件和直播源可信度 |
 | 配置影视仓 | [TVBox/影视仓配置地址](#tvbox影视仓配置地址) | 影视仓、TVBox 快速导入配置，注意来源、稳定性和安全 |
-| 省会员费用 | [会员拼团](#会员拼团) | 正规会员合租或优惠信息，注意支付规则、账号归属和售后 |
 | 找开源工具 | [开源项目](#开源项目) | 自建、部署或二次开发影视工具，注意活跃度和维护门槛 |
 
 ## 怎么看评分

@@ -4,6 +4,49 @@
   "updated_at": "2026-11-27",
   "resources": [
     {
+      "id": "duoduo-yingshi",
+      "name": "多多影视",
+      "url": "https://dduotv01.top/",
+      "category": "online_video",
+      "summary": "永久发布地址 `duoduozhuiju.com`",
+      "summary_short": "永久发布地址 `duoduozhuiju.com`",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "unknown",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "pending",
+        "last_checked": "2026-11-27",
+        "method": "manual",
+        "notes": "按维护者提供的名称、网址、简介及五星要求收录。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-11-27"
+      },
+      "featured": true,
+      "featured_order": 1
+    },
+    {
       "id": "haopianwang",
       "name": "好片严选",
       "url": "https://haopianwang.com",

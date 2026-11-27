@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-129_个资源-00A98F?style=flat-square" alt="已收录 129 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-130_个资源-00A98F?style=flat-square" alt="已收录 130 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--27-00B4D8?style=flat-square" alt="检测时间 2026-11-27" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -73,7 +73,7 @@
 
 <!-- featured-resources:start -->
 <p align="center">
-  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-43-0A66C2?style=flat-square" alt="在线影视"></a>
+  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-44-0A66C2?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-5-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
@@ -100,6 +100,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
+| [多多影视](<https://dduotv01.top/>) | 永久发布地址 `duoduozhuiju.com` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:duoduo-yingshi -->⚪&#8288;未&#8288;检测<!-- /availability:duoduo-yingshi --> | <!-- availability-date:duoduo-yingshi -->未检测<!-- /availability-date:duoduo-yingshi --> |
 | [好片严选](<https://haopianwang.com>) | 剔除澳门赌场/棋牌劣质源 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:haopianwang -->🟢&#8288;可&#8288;访问<!-- /availability:haopianwang --> | <!-- availability-date:haopianwang -->2026&#8209;11&#8209;27<!-- /availability-date:haopianwang --> |
 | [看看鸭](<https://www.kankanya.me/>) | 高清无广告新站 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kankanya -->🟢&#8288;可&#8288;访问<!-- /availability:kankanya --> | <!-- availability-date:kankanya -->2026&#8209;11&#8209;27<!-- /availability-date:kankanya --> |
 | [创享影视](<https://ys.cxkjg.cn/>) | 无广告三网高峰秒播（[@zxaay](<https://github.com/zxaay>)贡献） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ys-cxkjg-cn-39 -->🟢&#8288;可&#8288;访问<!-- /availability:ys-cxkjg-cn-39 --> | <!-- availability-date:ys-cxkjg-cn-39 -->2026&#8209;11&#8209;27<!-- /availability-date:ys-cxkjg-cn-39 --> |

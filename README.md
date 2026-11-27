@@ -40,6 +40,7 @@
 </p>
 
 <p align="center">
+  <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily?language=JavaScript" alt="laoma528%2Fawesome-zhuiju-free | Trendshift JavaScript" width="250" height="55"></a>
   <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily" alt="laoma528%2Fawesome-zhuiju-free | Trendshift" width="250" height="55"></a>
 </p>
 

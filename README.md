@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-128_个资源-00A98F?style=flat-square" alt="已收录 128 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-129_个资源-00A98F?style=flat-square" alt="已收录 129 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--27-00B4D8?style=flat-square" alt="检测时间 2026-11-27" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -78,7 +78,7 @@
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-4-6F42C1?style=flat-square" alt="字幕资源"></a>
-  <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-7-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
+  <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-8-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-17-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
   <a href="#直播源"><img src="https://img.shields.io/badge/直播源-3-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
@@ -248,6 +248,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
+| [影视Box合集-追剧必备](<https://b.zhuiju.me/p/34>) | 大合集，长期更新 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingshi-box-collection -->⚪&#8288;未&#8288;检测<!-- /availability:yingshi-box-collection --> | <!-- availability-date:yingshi-box-collection -->未检测<!-- /availability-date:yingshi-box-collection --> |
 | [影视仓](<https://b.zhuiju.me/p/15>) | 基于 TVBox 二次开发，魔改里知名度最高 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingshicang-player -->🟢&#8288;可&#8288;访问<!-- /availability:yingshicang-player --> | <!-- availability-date:yingshicang-player -->2026&#8209;11&#8209;27<!-- /availability-date:yingshicang-player --> |
 | [FongMi 蜂蜜](<https://b.zhuiju.me/p/16>) | 基于 CatVod 二开 ，支持Android TV和手机 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fongmi-fengmi -->🟢&#8288;可&#8288;访问<!-- /availability:fongmi-fengmi --> | <!-- availability-date:fongmi-fengmi -->2026&#8209;11&#8209;27<!-- /availability-date:fongmi-fengmi --> |
 | [OK影视](<https://b.zhuiju.me/p/17>) | OK影视版 = FongMi蜂蜜版 + 各种新功能 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ok-yingshi-player -->🟢&#8288;可&#8288;访问<!-- /availability:ok-yingshi-player --> | <!-- availability-date:ok-yingshi-player -->2026&#8209;11&#8209;27<!-- /availability-date:ok-yingshi-player --> |

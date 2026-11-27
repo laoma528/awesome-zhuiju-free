@@ -4229,6 +4229,45 @@
       "featured_order": 2
     },
     {
+      "id": "yingshi-box-collection",
+      "name": "影视Box合集-追剧必备",
+      "url": "https://b.zhuiju.me/p/34",
+      "category": "player",
+      "summary": "大合集，长期更新",
+      "summary_short": "大合集，长期更新",
+      "tags": ["TVBox", "影视仓", "Android TV"],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": ["GLOBAL"]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "verified",
+        "last_checked": "2026-11-27",
+        "method": "manual",
+        "notes": "已核对文章可访问，正文包含 6 款软件的 24 个网盘入口。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-11-27"
+      },
+      "featured": true,
+      "featured_order": 1
+    },
+    {
       "id": "yingshicang-player",
       "name": "影视仓",
       "url": "https://b.zhuiju.me/p/15",

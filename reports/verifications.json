@@ -108,7 +108,6 @@
         "tdgo",
         "ai-movie",
         "jpyy",
-        "tv-937",
         "iyf",
         "czzymovie",
         "libvio"
@@ -330,7 +329,6 @@
     {
       "id": "verify-20260712-online-video-batch",
       "resource_ids": [
-        "bubu-zhuiju",
         "yingmao-cangku"
       ],
       "checked_at": "2026-07-12",
@@ -341,7 +339,7 @@
         "network": "user submitted"
       },
       "result": "pending_review",
-      "notes": "根据用户补充收录在线影视资源：布布追剧（https://bubuzhuiju.com，推荐指数 4 星，简介：速度快，有广告能接受）和影猫仓库（https://www.ymck.pro，推荐指数 4 星，简介：热门影视剧，有广告能接受）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      "notes": "根据用户补充收录在线影视资源：影猫仓库（https://www.ymck.pro，推荐指数 4 星，简介：热门影视剧，有广告能接受）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
     },
     {
       "id": "verify-20260718-auete-url-update",
@@ -378,7 +376,6 @@
       "id": "verify-20260718-online-video-batch",
       "resource_ids": [
         "aikanbot",
-        "duse91",
         "guangsu-yingshi",
         "haohaokan"
       ],
@@ -390,7 +387,7 @@
         "network": "user submitted"
       },
       "result": "pending_review",
-      "notes": "根据用户补充收录在线影视资源：爱看机器人（https://www1.aikanbot.com，推荐指数 5 星，简介：全网热门的电影和电视剧榜单）、91毒舌（https://www.duse0.com/，推荐指数 5 星，简介后续更新为：最新Netflix新剧、4K高清（可访问））、光速影视（https://www.yingshiso.link/，推荐指数 4 星，简介：作为备选，纯净无广告）和好好看（https://www.hhkan2.com/，推荐指数 5 星，简介后续更新为：4K高清Netflix新剧（可访问需梯子））；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      "notes": "根据用户补充收录在线影视资源：爱看机器人（https://www1.aikanbot.com，推荐指数 5 星，简介：全网热门的电影和电视剧榜单）、光速影视（https://www.yingshiso.link/，推荐指数 4 星，简介：作为备选，纯净无广告）和好好看（https://www.hhkan2.com/，推荐指数 5 星，简介后续更新为：4K高清Netflix新剧（可访问需梯子））；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
     },
     {
       "id": "verify-20260718-ifn",
@@ -556,21 +553,6 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充收录磁力& BT资源：找电影时光（https://www.ldysg.win/，推荐指数 5 星，简介：影视高清晰无水印下载）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
-    },
-    {
-      "id": "verify-20260829-juok",
-      "resource_ids": [
-        "juok"
-      ],
-      "checked_at": "2026-08-29",
-      "checked_by": "maintainer",
-      "method": "manual",
-      "environment": {
-        "region": "unspecified",
-        "network": "user submitted"
-      },
-      "result": "pending_review",
-      "notes": "根据用户补充收录在线影视资源：剧OK（https://juok3.top/，推荐指数 5 星，简介：最新电视剧、最新电影）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
     },
     {
       "id": "verify-20260829-dandanqi",

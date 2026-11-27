@@ -490,50 +490,6 @@
       "featured": false
     },
     {
-      "id": "tv-937",
-      "name": "937影视",
-      "url": "https://www.937tv.vip",
-      "category": "online_video",
-      "summary": "看全网影视剧。",
-      "summary_short": "看全网影视剧（需梯子）",
-      "tags": [
-        "在线影视",
-        "影视剧",
-        "中文"
-      ],
-      "access": {
-        "requires_login": false,
-        "free_level": "unknown",
-        "regions": [
-          "GLOBAL"
-        ]
-      },
-      "scores": {
-        "more": 5,
-        "speed": 5,
-        "clean": 5,
-        "stable": 5,
-        "ease": 5
-      },
-      "risks": {
-        "copyright": "high",
-        "safety": "medium",
-        "privacy": "unknown",
-        "payment": "unknown"
-      },
-      "verification": {
-        "status": "caution",
-        "last_checked": "2026-06-19",
-        "method": "manual",
-        "notes": "根据截图信息收录：推荐指数 5 星，测评备注为看全网影视剧；截图状态不作为本项目状态依据，后续需要补充访问速度、广告干扰、版权和安全风险验证。"
-      },
-      "source": {
-        "submitted_by": "maintainer",
-        "added_at": "2026-06-19"
-      },
-      "featured": true
-    },
-    {
       "id": "iyf",
       "name": "爱壹帆",
       "url": "https://iyf.tv",
@@ -974,50 +930,6 @@
       "featured": true
     },
     {
-      "id": "bubu-zhuiju",
-      "name": "布布追剧",
-      "url": "https://bubuzhuiju.com",
-      "category": "online_video",
-      "summary": "速度快，有广告能接受。",
-      "summary_short": "速度快，有广告能接受",
-      "tags": [
-        "在线影视",
-        "追剧",
-        "有广告"
-      ],
-      "access": {
-        "requires_login": false,
-        "free_level": "unknown",
-        "regions": [
-          "GLOBAL"
-        ]
-      },
-      "scores": {
-        "more": 4,
-        "speed": 4,
-        "clean": 4,
-        "stable": 4,
-        "ease": 4
-      },
-      "risks": {
-        "copyright": "high",
-        "safety": "medium",
-        "privacy": "unknown",
-        "payment": "unknown"
-      },
-      "verification": {
-        "status": "caution",
-        "last_checked": "2026-07-12",
-        "method": "manual",
-        "notes": "根据用户补充收录：推荐指数 4 星，简介为速度快，有广告能接受；提交状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
-      },
-      "source": {
-        "submitted_by": "maintainer",
-        "added_at": "2026-07-12"
-      },
-      "featured": true
-    },
-    {
       "id": "yingmao-cangku",
       "name": "影猫仓库",
       "url": "https://www.ymck.pro",
@@ -1100,51 +1012,6 @@
         "last_checked": "2026-08-09",
         "method": "manual",
         "notes": "根据用户补充将推荐指数从 5 星调整为 3 星，简介更新为热门电影电视剧（有跳转广告）；后续由自动检测刷新可访问状态，并持续观察广告跳转、版权状态与站点安全性。"
-      },
-      "source": {
-        "submitted_by": "maintainer",
-        "added_at": "2026-07-18"
-      },
-      "featured": true
-    },
-    {
-      "id": "duse91",
-      "name": "91毒舌",
-      "url": "https://www.duse0.com/",
-      "category": "online_video",
-      "summary": "最新Netflix新剧、4K高清（可访问）。",
-      "summary_short": "最新Netflix新剧、4K高清（可访问）",
-      "tags": [
-        "在线影视",
-        "Netflix",
-        "4K",
-        "高清影视"
-      ],
-      "access": {
-        "requires_login": false,
-        "free_level": "unknown",
-        "regions": [
-          "GLOBAL"
-        ]
-      },
-      "scores": {
-        "more": 5,
-        "speed": 5,
-        "clean": 5,
-        "stable": 5,
-        "ease": 5
-      },
-      "risks": {
-        "copyright": "high",
-        "safety": "medium",
-        "privacy": "unknown",
-        "payment": "unknown"
-      },
-      "verification": {
-        "status": "caution",
-        "last_checked": "2026-07-18",
-        "method": "manual",
-        "notes": "根据用户补充更新简介为最新Netflix新剧、4K高清（可访问）；提交状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -4684,92 +4551,6 @@
       "featured": true
     },
     {
-      "id": "naifei-fyi-19",
-      "name": "奈飞工厂",
-      "url": "https://naifei.fyi/",
-      "category": "online_video",
-      "summary": "国区可访问，资源无广",
-      "summary_short": "国区可访问，资源无广",
-      "tags": [
-        "在线影视"
-      ],
-      "access": {
-        "requires_login": false,
-        "free_level": "unknown",
-        "regions": [
-          "GLOBAL"
-        ]
-      },
-      "scores": {
-        "more": 4,
-        "speed": 4,
-        "clean": 4,
-        "stable": 4,
-        "ease": 4
-      },
-      "risks": {
-        "copyright": "high",
-        "safety": "medium",
-        "privacy": "unknown",
-        "payment": "unknown"
-      },
-      "verification": {
-        "status": "caution",
-        "last_checked": "2026-08-05",
-        "method": "manual",
-        "notes": "维护者 @laoma2053 已通过 ok 确认收录。 测试信息：2026-08-05，中国大陆。 提交者风险说明：暂未发现"
-      },
-      "source": {
-        "submitted_by": "@xwx6164",
-        "added_at": "2026-08-10"
-      },
-      "featured": true
-    },
-    {
-      "id": "juok",
-      "name": "剧OK",
-      "url": "https://juok3.top/",
-      "category": "online_video",
-      "summary": "最新电视剧、最新电影。",
-      "summary_short": "最新电视剧、最新电影",
-      "tags": [
-        "在线影视",
-        "电影",
-        "电视剧"
-      ],
-      "access": {
-        "requires_login": false,
-        "free_level": "unknown",
-        "regions": [
-          "GLOBAL"
-        ]
-      },
-      "scores": {
-        "more": 5,
-        "speed": 5,
-        "clean": 5,
-        "stable": 5,
-        "ease": 5
-      },
-      "risks": {
-        "copyright": "high",
-        "safety": "medium",
-        "privacy": "unknown",
-        "payment": "unknown"
-      },
-      "verification": {
-        "status": "caution",
-        "last_checked": "2026-08-29",
-        "method": "manual",
-        "notes": "根据用户补充收录在线影视资源：剧OK（https://juok3.top/，推荐指数 5 星，简介：最新电视剧、最新电影）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
-      },
-      "source": {
-        "submitted_by": "maintainer",
-        "added_at": "2026-08-29"
-      },
-      "featured": true
-    },
-    {
       "id": "dandanqi",
       "name": "蛋蛋奇",
       "url": "https://www.dandanqi.cc/",
@@ -5174,8 +4955,8 @@
       "name": "歪比巴卜",
       "url": "https://wbbb1.com/",
       "category": "online_video",
-      "summary": "高清视频免费在线观看（可访问）",
-      "summary_short": "高清视频免费在线观看（可访问）",
+      "summary": "高清视频免费在线观看（需梯子）",
+      "summary_short": "高清视频免费在线观看（需梯子）",
       "tags": [
         "在线影视",
         "高清",
@@ -5218,8 +4999,8 @@
       "name": "开心影院",
       "url": "https://www.kxyy1.cc/",
       "category": "online_video",
-      "summary": "最新电影、热播电视剧。",
-      "summary_short": "最新电影热播电视剧",
+      "summary": "最新电影热播电视剧（可访问）",
+      "summary_short": "最新电影热播电视剧（可访问）",
       "tags": [
         "在线影视",
         "电影",

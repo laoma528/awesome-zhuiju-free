@@ -98,17 +98,6 @@
       "error": null
     },
     {
-      "resource_id": "tv-937",
-      "url": "https://www.937tv.vip",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 64,
-      "checked_at": "2026-11-27T01:13:02.775Z",
-      "attempts": 2,
-      "error": "fetch failed"
-    },
-    {
       "resource_id": "iyf",
       "url": "https://iyf.tv",
       "status": "restricted",
@@ -208,17 +197,6 @@
       "error": null
     },
     {
-      "resource_id": "bubu-zhuiju",
-      "url": "https://bubuzhuiju.com",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 20820,
-      "checked_at": "2026-11-27T01:13:04.304Z",
-      "attempts": 2,
-      "error": "fetch failed"
-    },
-    {
       "resource_id": "yingmao-cangku",
       "url": "https://www.ymck.pro",
       "status": "restricted",
@@ -238,17 +216,6 @@
       "response_ms": 315,
       "checked_at": "2026-11-27T01:13:04.535Z",
       "attempts": 1,
-      "error": null
-    },
-    {
-      "resource_id": "duse91",
-      "url": "https://www.duse0.com/",
-      "status": "unreachable",
-      "http_status": 850,
-      "final_url": "https://www.duse0.com/",
-      "response_ms": 2517,
-      "checked_at": "2026-11-27T01:13:04.701Z",
-      "attempts": 2,
       "error": null
     },
     {
@@ -899,28 +866,6 @@
       "checked_at": "2026-11-27T01:13:26.108Z",
       "attempts": 1,
       "error": null
-    },
-    {
-      "resource_id": "naifei-fyi-19",
-      "url": "https://naifei.fyi/",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 476,
-      "checked_at": "2026-11-27T01:13:26.320Z",
-      "attempts": 2,
-      "error": "fetch failed"
-    },
-    {
-      "resource_id": "juok",
-      "url": "https://juok3.top/",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 20773,
-      "checked_at": "2026-11-27T01:13:26.321Z",
-      "attempts": 2,
-      "error": "fetch failed"
     },
     {
       "resource_id": "zndy",

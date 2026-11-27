@@ -319,7 +319,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 | [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,655 | 2026-05-25 |
 | [WebHomeTV](<https://github.com/fish2018/webhtv>) | 基于 FongMi/CatVod 二开的 Android 影音应用 | 1,937 | 2026-11-11 |
 | [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 837 | 2026-11-21 |
-| [CineFlow](<https://github.com/incldue/CineFlow>) | 核心解决普通无115网盘等点播资源的用户、学生群体等的观影问题，提供沉浸式观影体 | 573 | 2026-11-22 |
+| [CineFlow](<https://github.com/incldue/CineFlow>) | 解决无115网盘等点播观影问题 | 573 | 2026-11-22 |
 | [nTv 直播软件](<https://github.com/buhanzhe/NativeWasmTv>) | 横屏直播播放器 | 502 | 2026-11-21 |
 | [修狗TV](<https://github.com/qfw66/xiugou-tv>) | 兼容 TVBox 配置的 Windows 影视播放器 | 306 | 2026-11-22 |
 | [sky-tv](<https://github.com/sky22333/sky-tv>) | 现代化跨平台视频播放器空壳应用 | 144 | 2026-10-03 |

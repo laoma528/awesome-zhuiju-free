@@ -5702,8 +5702,8 @@
       "name": "CineFlow",
       "url": "https://github.com/incldue/CineFlow",
       "category": "open_source",
-      "summary": "核心解决普通无115网盘等点播资源的用户、学生群体等的观影问题，提供沉浸式观影体验(纯影视资源，无短视频、短剧、弹幕等)\n核心亮点：搜索词条词云化、最小化灵动岛模式、UI简洁优雅",
-      "summary_short": "核心解决普通无115网盘等点播资源的用户、学生群体等的观影问题，提供沉浸式观影体",
+      "summary": "解决无115网盘等点播观影问题",
+      "summary_short": "解决无115网盘等点播观影问题",
       "tags": [
         "开源项目"
       ],

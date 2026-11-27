@@ -42,6 +42,7 @@
 <p align="center">
   <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily?language=JavaScript" alt="laoma528%2Fawesome-zhuiju-free | Trendshift JavaScript" width="250" height="55"></a>
   <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily" alt="laoma528%2Fawesome-zhuiju-free | Trendshift" width="250" height="55"></a>
+  <a href="https://trendshift.io/repositories/79445?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/79445" alt="laoma528/awesome-zhuiju-free | GitHub Trending" width="250" height="55"></a>
 </p>
 
 **[查看资源](#精选资源)** · **[提交资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml)**

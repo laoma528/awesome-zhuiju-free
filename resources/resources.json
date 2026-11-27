@@ -5743,6 +5743,53 @@
         "stars": 573,
         "pushed_at": "2026-11-22T11:29:13Z"
       }
+    },
+    {
+      "id": "prodclub",
+      "name": "ProdClub",
+      "url": "https://github.com/laoma528/ProdClub",
+      "category": "open_source",
+      "summary": "ChatGPT Plus/Pro国内代充值",
+      "summary_short": "ChatGPT Plus/Pro国内代充值",
+      "tags": [
+        "开源项目"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "unknown",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "pending",
+        "last_checked": "2026-11-27",
+        "method": "manual",
+        "notes": "GitHub repository metadata checked."
+      },
+      "source": {
+        "submitted_by": "@laoma528",
+        "added_at": "2026-11-27"
+      },
+      "featured": true,
+      "github": {
+        "full_name": "laoma528/ProdClub",
+        "stars": 95,
+        "pushed_at": "2026-11-27T05:04:37Z"
+      }
     }
   ]
 }

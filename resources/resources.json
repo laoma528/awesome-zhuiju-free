@@ -4,6 +4,49 @@
   "updated_at": "2026-11-27",
   "resources": [
     {
+      "id": "haopianwang",
+      "name": "好片严选",
+      "url": "https://haopianwang.com",
+      "category": "online_video",
+      "summary": "剔除澳门赌场/棋牌劣质源",
+      "summary_short": "剔除澳门赌场/棋牌劣质源",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "unknown",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "pending",
+        "last_checked": "2026-11-27",
+        "method": "manual",
+        "notes": "按维护者提供的名称、网址、简介及五星要求收录。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-11-27"
+      },
+      "featured": true,
+      "featured_order": 1
+    },
+    {
       "id": "kankanya",
       "name": "看看鸭",
       "url": "https://www.kankanya.me/",
@@ -44,7 +87,7 @@
         "added_at": "2026-10-23"
       },
       "featured": true,
-      "featured_order": 1
+      "featured_order": 2
     },
     {
       "id": "no-video",
@@ -5345,7 +5388,7 @@
         "added_at": "2026-10-10"
       },
       "featured": true,
-      "featured_order": 3
+      "featured_order": 4
     },
     {
       "id": "iptv-cqshushu-com-31",
@@ -5430,7 +5473,7 @@
         "added_at": "2026-10-10"
       },
       "featured": true,
-      "featured_order": 4
+      "featured_order": 5
     },
     {
       "id": "ys-cxkjg-cn-39",
@@ -5473,7 +5516,7 @@
         "added_at": "2026-10-10"
       },
       "featured": true,
-      "featured_order": 2
+      "featured_order": 3
     },
     {
       "id": "github-com-49",

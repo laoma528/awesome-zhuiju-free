@@ -249,7 +249,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
-| [影视Box安装包](<https://b.zhuiju.me/p/34>) | 大合集，长期更新 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingshi-box-collection -->🟢&#8288;可&#8288;访问<!-- /availability:yingshi-box-collection --> | <!-- availability-date:yingshi-box-collection -->2026&#8209;11&#8209;27<!-- /availability-date:yingshi-box-collection --> |
+| [影视Box合集](<https://b.zhuiju.me/p/34>) | 空壳安装包大合集，长期更新 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingshi-box-collection -->🟢&#8288;可&#8288;访问<!-- /availability:yingshi-box-collection --> | <!-- availability-date:yingshi-box-collection -->2026&#8209;11&#8209;27<!-- /availability-date:yingshi-box-collection --> |
 | [影视仓](<https://b.zhuiju.me/p/15>) | 基于 TVBox 二次开发，魔改里知名度最高 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingshicang-player -->🟢&#8288;可&#8288;访问<!-- /availability:yingshicang-player --> | <!-- availability-date:yingshicang-player -->2026&#8209;11&#8209;27<!-- /availability-date:yingshicang-player --> |
 | [FongMi 蜂蜜](<https://b.zhuiju.me/p/16>) | 基于 CatVod 二开 ，支持Android TV和手机 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fongmi-fengmi -->🟢&#8288;可&#8288;访问<!-- /availability:fongmi-fengmi --> | <!-- availability-date:fongmi-fengmi -->2026&#8209;11&#8209;27<!-- /availability-date:fongmi-fengmi --> |
 | [OK影视](<https://b.zhuiju.me/p/17>) | OK影视版 = FongMi蜂蜜版 + 各种新功能 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ok-yingshi-player -->🟢&#8288;可&#8288;访问<!-- /availability:ok-yingshi-player --> | <!-- availability-date:ok-yingshi-player -->2026&#8209;11&#8209;27<!-- /availability-date:ok-yingshi-player --> |

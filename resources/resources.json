@@ -4273,11 +4273,11 @@
     },
     {
       "id": "yingshi-box-collection",
-      "name": "影视Box安装包",
+      "name": "影视Box合集",
       "url": "https://b.zhuiju.me/p/34",
       "category": "player",
-      "summary": "大合集，长期更新",
-      "summary_short": "大合集，长期更新",
+      "summary": "空壳安装包大合集，长期更新",
+      "summary_short": "空壳安装包大合集，长期更新",
       "tags": ["TVBox", "影视仓", "Android TV"],
       "access": {
         "requires_login": false,

@@ -524,6 +524,7 @@
 
 - [LINUX DO](https://linux.do) —— 新的理想型社区，技术爱好者的聚集地。
 - [ProdClub](https://prodclub.vip) —— ChatGPT Plus/Pro国内代充值，支付宝付款，最快 1 分钟到账。
+- [GPTplusSub](https://github.com/laoma528/GPTplusSub) —— 2027年最新 ChatGPT Plus/Pro会员国内充值教程
 
 ## 项目数据
 
